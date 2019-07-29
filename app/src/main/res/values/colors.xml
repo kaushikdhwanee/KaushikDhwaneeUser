@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+
+<!--
+    <color name="colorPrimary">#fff</color>
+-->
+    <color name="colorPrimaryDark">#303F9F</color>
+<!--
+    <color name="colorAccent">#FF4081</color>
+-->
+    <color name="white">#fff</color>
+    <color name="bg_title">#66999999</color>
+    <color name="transparent">#00000000</color>
+     <color name="green">#008080</color>
+    <color name="app_theme1">#00aeef</color>
+
+    <color name="black">#000</color>
+    <color name="light_gray">#a9a9a9</color>
+
+    <color name="item_selected_background_color">#C7C7CC</color>
+    <color name="image_placeholder_background_color">#C7C7CC</color>
+    <color name="dark_grey">#484547</color>
+
+    <color name="app_background_color">#FAFAFA</color>
+    <color name="divider_color">#C7C7CC</color>
+    <color name="calTitle">#fff</color>
+    <color name="selDay">#00aeef</color>
+    <color name="light_bg">#e4e4e4</color>
+
+
+</resources>

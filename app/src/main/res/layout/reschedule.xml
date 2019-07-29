@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/ab2"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/transparent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:overScrollMode="never"
+            android:layout_above="@+id/rs_sub"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button android:id="@+id/rs_branch_spin"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/faq_bg_rect"
+                    android:textColor="@color/app_theme1"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Branch"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:drawableEnd="@drawable/dwn_arw_bg"
+                    android:drawableRight="@drawable/dwn_arw_bg"
+                    android:gravity="left"
+                    android:textAllCaps="false"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content" />
+                <Button android:id="@+id/rs_class_spin"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/faq_bg_rect"
+                    android:textColor="@color/app_theme1"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Classes"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="15dp"
+                    android:paddingBottom="15dp"
+
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:drawableEnd="@drawable/dwn_arw_bg"
+                    android:drawableRight="@drawable/dwn_arw_bg"
+                    android:gravity="left"
+                    android:textAllCaps="false"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content" />
+
+
+            <com.prolificinteractive.materialcalendarview.MaterialCalendarView
+                android:id="@+id/rs_cal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cborder2"
+                app:main_title="@color/calTitle"
+                app:weekday="@color/calTitle"
+                android:layout_margin="10dp"
+                app:selectionColor="@color/selDay"
+                android:visibility="visible"
+
+                />
+
+            <ListView android:id="@+id/rs_lv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:overScrollMode="never"
+                android:layout_margin="10dp"
+                android:listSelector="@android:color/transparent"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:divider="@color/transparent"
+                android:dividerHeight="2dp"
+                />
+            </LinearLayout>
+        </ScrollView>
+
+
+        <Button android:id="@+id/rs_sub"
+            android:layout_width="match_parent"
+            android:textColor="@color/white"
+            android:background="@color/app_theme1"
+            android:layout_alignParentBottom="true"
+            android:text="SUBMIT"
+            android:padding="10dp"
+
+            android:textStyle="bold"
+
+            android:gravity="center"
+            android:textAllCaps="false"
+
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+</LinearLayout>

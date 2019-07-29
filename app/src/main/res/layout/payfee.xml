@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <include layout="@layout/ab2" android:id="@+id/pf_ab"/>
+
+    <ScrollView
+         android:layout_below="@+id/pf_ab"
+        android:layout_above="@+id/pn_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Total"
+                android:textColor="@color/dark_grey"
+                android:padding="10dp"
+                android:gravity="center"
+                android:id="@+id/header" />
+
+            <LinearLayout android:id="@+id/pf_slist_lay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <include layout="@layout/payfee_btm"/>
+            <TextView
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Select  "
+                android:textColor="@color/dark_grey"
+                android:padding="10dp"
+                android:gravity="center|left"
+                 />
+
+            <android.support.design.widget.TabLayout
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="10dp"
+                app:tabMode="fixed"
+                android:id="@+id/payment_mode"
+                app:tabSelectedTextColor="#fff"
+                app:tabTextColor="#000"
+                app:tabIndicatorColor="@color/white"
+
+                app:tabBackground="@drawable/mode_selector">
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Credit Card"
+
+                    />
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Debit Card"
+
+                    />
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="Net Banking"
+
+                    />
+            </android.support.design.widget.TabLayout>
+            <android.support.design.widget.TabLayout
+                android:visibility="gone"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                app:tabMode="fixed"
+                android:id="@+id/type"
+                app:tabSelectedTextColor="#fff"
+                app:tabTextColor="#000"
+
+                app:tabIndicatorColor="@color/white"
+
+                app:tabBackground="@drawable/mode_selector">
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="VISA"
+
+                    />
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="MASTER"
+
+                    />
+                <android.support.design.widget.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="MAESTRO"
+
+                    />
+            </android.support.design.widget.TabLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <CheckBox
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:id="@+id/tandC"
+                    />
+                <TextView
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="I agree to"
+                    android:layout_marginLeft="10dp"
+                    />
+                <TextView
+                    android:id="@+id/terms_con"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Terms &amp; Conditions."
+                    android:textColor="@color/app_color"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button android:id="@+id/pn_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Now"
+       android:textStyle="bold"
+      android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@color/app_theme1"/>
+
+</RelativeLayout>

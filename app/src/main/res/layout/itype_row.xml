@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:padding="5dp"
+android:background="@color/app_theme1">
+
+    <ImageView android:id="@+id/itype_img"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:padding="5dp"
+        app:srcCompat="@drawable/ic_call"/>
+
+    <TextView android:id="@+id/fbi_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="aaa"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="left|center"/>
+
+
+
+
+
+</LinearLayout>
+
+
+<!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@color/app_theme1">
+
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+  android:layout_centerInParent="true"
+    android:background="@color/transparent">
+
+        <ImageView android:id="@+id/itype_img"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ic_fiber_manual_record_white_24px"/>
+
+        <TextView android:id="@+id/fbi_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="aaa"
+            android:textColor="@color/white"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:gravity="left|center"/>
+
+
+
+
+
+</LinearLayout>
+
+</RelativeLayout>-->
+
+
+
+
+

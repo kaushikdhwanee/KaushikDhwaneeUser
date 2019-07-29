@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:id="@+id/header1"
+    >
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:id="@+id/list"
+        >
+       <!-- <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/app_theme1"
+            android:gravity="center"
+            android:id="@+id/heading"
+            android:weightSum="3"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pending Fees"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:textSize="15sp"
+                android:gravity="left|center"
+                android:textColor="@color/black"
+                android:id="@+id/pending_fees"
+                />
+        </LinearLayout>-->
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="center"
+        android:id="@+id/header2"
+        android:weightSum="3"
+        >
+
+<LinearLayout
+    android:gravity="center|left"
+    android:layout_width="0dp"
+    android:orientation="vertical"
+    android:layout_weight="1.4"
+
+    android:layout_height="match_parent">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Student Name"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:textSize="15sp"
+    android:gravity="left|center"
+    android:textColor="@color/black"
+    android:id="@+id/student_name"
+    />
+<TextView
+    android:layout_marginTop="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Class Name"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:textSize="12sp"
+    android:gravity="left|center"
+    android:textColor="@color/black"
+    android:id="@+id/class_name"
+    />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Date"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="12sp"
+        android:gravity="left|center"
+        android:textColor="@color/black"
+        android:id="@+id/start"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="End Date"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="12sp"
+        android:gravity="left|center"
+        android:textColor="@color/black"
+        android:id="@+id/end"
+        />-->
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Sessions"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="12sp"
+        android:gravity="left|center"
+        android:textColor="@color/black"
+        android:id="@+id/total_sessions"
+        />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sessions/Week"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="12sp"
+        android:gravity="left|center"
+        android:textColor="@color/black"
+        android:id="@+id/sessions_week"
+        />
+</LinearLayout>
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+<TextView
+    android:layout_width="0dp"
+    android:layout_weight=".8"
+    android:layout_height="match_parent"
+    android:text="Month"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:textSize="12sp"
+    android:gravity="left|center"
+    android:textColor="@color/black"
+    android:id="@+id/month"
+    />
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/light_gray"/>
+
+        <TextView
+
+    android:layout_width="0dp"
+    android:layout_weight=".6"
+    android:layout_height="match_parent"
+    android:text="Due Amount"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:textSize="12sp"
+    android:gravity="center"
+            android:layout_marginRight="10dp"
+    android:textColor="@color/black"
+    android:id="@+id/due_amount"
+
+
+    />
+    </LinearLayout>
+        <CheckBox
+           android:layout_centerInParent="true"
+            android:id="@+id/select"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:button="@null"
+            android:drawableRight="@drawable/check_box_selector"
+            android:paddingRight="5dp"/>
+
+
+
+        <LinearLayout
+            android:id="@+id/header3"
+
+            android:layout_width="match_parent"
+            android:layout_below="@+id/header2"
+            android:orientation="horizontal"
+            android:layout_weight="1.4"
+
+            android:layout_height="match_parent"
+            >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="You have no Pending Amount "
+            android:background="@color/app_theme1"
+            android:paddingLeft="10dp"
+            android:paddingRight="5dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:textSize="18sp"
+            android:gravity="left|center"
+            android:textColor="@color/white"
+            android:id="@+id/no_fee"
+            />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

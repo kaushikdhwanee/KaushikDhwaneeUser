@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item>
+        <shape>
+            <solid android:color="@color/app_theme1"/>
+            <stroke android:color="@color/app_theme1" android:width="1dp"/>
+            <corners android:radius="30dp"/>
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_trending_flat_black_24px" android:left="30dp" android:right="30dp">
+
+    </item>
+
+</layer-list>

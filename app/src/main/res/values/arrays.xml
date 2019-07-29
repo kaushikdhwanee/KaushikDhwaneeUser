@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+
+
+    <string-array name="itype_data">
+        <item>Classes</item>
+        <item>Fees</item>
+        <item>Timing</item>
+        <item>Others</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="smtitles">
+
+<!--
+        <item> Dashboard</item>
+-->
+        <item>My Classes</item>
+        <item>Notifications</item>
+        <item>Feedback</item>
+        <item>Class Schedule</item>
+        <item>About kaushik Dhwanee</item>
+        <item>Faqs</item>
+
+
+    </string-array>
+    <string-array name="smtitles1">
+
+<!--
+        <item> Dashboard</item>
+-->
+        <item>My Classes</item>
+        <item>Notifications</item>
+        <item>Feedback</item>
+        <item>About kaushik Dhwanee</item>
+        <item>Faqs</item>
+
+
+    </string-array>
+</resources>

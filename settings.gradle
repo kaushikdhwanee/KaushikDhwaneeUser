@@ -1,0 +1,5 @@
+include ':app', ':CalLib', ':CalRangePop', ':PGSDK'
+
+//include ':libraryMobilePaymentSDK'
+include ':libraryMobilePaymentSDK1'
+include ':libraryMobilePaymentSDK'

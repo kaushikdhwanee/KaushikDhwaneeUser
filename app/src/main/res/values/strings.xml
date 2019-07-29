@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Kaushik Dhwanee</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_rated_movies_topic">Top Rated Movies</string>
+    <string name="most_popular_movies_topic">Most Popular Movies</string>
+    <string name="more">MORE</string>
+    <string name="dark_grey_string">#484547</string>
+
+
+    <string name="icon_user">&#xf007;</string>
+    <string name="icon_reg">&#xf164;</string>
+    <string name="login">Login</string>
+
+     <string name="cheese_ipsum">Founded in March 2012, KaushikDhwanee is a music dance and art school located in Hyderabad and is now serving three locations viz. Kondapur (Botanical Garden Road), Kothaguda in Kondapur and Nallagandla in Serlingampalli.\n\n
+         At KaushikDhwanee, many music courses are offered such as Hindustani Classical Vocal, Tabla, Carnatic Classical Vocal, Veena, Violin, Flute, Guitar, Drums, Keyboard, Piano among other instruments.\n\n
+         KaushikDhwane also offers dance classes such as Bollywood/Contemporary Bollywood Dance and other traditional styles such as Kathak, Bharatnatyam and Kuchipudi.\n\n
+         While some of the other interesting classes at KaushikDhwanee include clay modeling, clay as well as canvas painting, sketching, Yoga, Zumba, Shlok among other.</string>
+    <string name="checkin">Checkin</string>
+
+    <string name="menu_night_mode">Night mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day (always)</string>
+    <string name="menu_night_mode_night">Night (always)</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="feedback">  Feedback</string>
+    <string name="faqs">  Faqs</string>
+    <string name="a_kd">  About Kaushik Dhwanee</string>
+    <string name="a_app">  About App</string>
+    <string name="call">040-7746584</string>
+    <string name="cmail">KD@gmail.com</string>
+    <string name="support">Support</string>
+    <string name="notif">Notifications</string>
+    <string name="ofrs">Offers</string>
+
+
+    <string name="server">http://d002aecd.ngrok.io/kdhwanee_QA/users/</string>
+
+    <string name="live">http://site.khusaki.com/kaushikdhwanee/users/</string>
+    <string name="serverbeta">http://site.khusaki.com/kaushik_beta/users/</string>
+    <string name="serverold">http://site.khusaki.com/kaushik_new/users/</string>
+    <string name="serverunit">http://site.khusaki.com/kaushik_unit/users/</string>
+    <string name="stage">http://site.khusaki.com/kaushik_stage/users/</string>
+    <string name="server_main">http://site.khusaki.com/kaushikdhwanee/users/</string>
+
+    <!--    http://site.khusaki.com/kaushikdhwanee/-->
+    <!---->
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item android:left="-2dp" >
+        <shape>
+            <solid android:color="@color/white"/>
+            <stroke android:width="2dip" android:color="@color/app_theme1" />
+
+            <corners
+                android:bottomLeftRadius="120dp"
+                android:bottomRightRadius="120dp" />
+
+<!--
+            <corners
+                android:bottomLeftRadius="30dp"
+                android:bottomRightRadius="30dp" />
+-->
+        </shape>
+    </item>
+<!--    <item android:drawable="@drawable/line1" />-->
+
+
+    </layer-list>

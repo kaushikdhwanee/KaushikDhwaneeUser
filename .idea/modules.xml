@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalLib/CalLib.iml" filepath="$PROJECT_DIR$/CalLib/CalLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalRangePop/CalRangePop.iml" filepath="$PROJECT_DIR$/CalRangePop/CalRangePop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KaushikDhwaneeUser.iml" filepath="$PROJECT_DIR$/KaushikDhwaneeUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PGSDK/PGSDK.iml" filepath="$PROJECT_DIR$/PGSDK/PGSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryMobilePaymentSDK2/libraryMobilePaymentSDK.iml" filepath="$PROJECT_DIR$/libraryMobilePaymentSDK2/libraryMobilePaymentSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryMobilePaymentSDK1/libraryMobilePaymentSDK1.iml" filepath="$PROJECT_DIR$/libraryMobilePaymentSDK1/libraryMobilePaymentSDK1.iml" />
+    </modules>
+  </component>
+</project>

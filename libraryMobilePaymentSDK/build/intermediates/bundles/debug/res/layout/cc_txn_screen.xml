@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tt_MerchantDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dip"
+        android:layout_marginTop="40dip"
+        android:gravity="center"
+        android:text="Card Details"
+        android:textColor="#0b84aa"
+        android:textSize="20dip" />
+
+    <!--
+          <Spinner
+        android:id="@+id/sp_bankdetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+
+    -->
+
+    <EditText
+        android:id="@+id/et_card_hname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:hint="Card Name"
+        android:inputType="text"
+        android:maxLength="45" 
+        android:digits="A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y, ,z"/>
+        />
+
+    <EditText
+        android:id="@+id/et_card_no"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:hint="Card Number"
+        android:inputType="number"
+        android:maxLength="19" />
+
+    <LinearLayout
+        android:id="@+id/llMerchantCardDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tt_spMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="Expiry Month" />
+
+        <Spinner
+            android:id="@+id/sp_expMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            >
+        </Spinner>
+
+        <TextView
+            android:id="@+id/tt_spYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="Year" />
+
+        <Spinner
+            android:id="@+id/sp_expYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+        </Spinner>
+
+        <!--
+        <EditText
+            android:id="@+id/et_expYear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:hint="Expiry Year"
+            android:inputType="number"
+            android:maxLength="4" />
+
+        <EditText
+            android:id="@+id/et_expMonth"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:hint="Expiry Month"
+            android:inputType="number"
+            android:maxLength="2" />
+
+        -->
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_cvv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:hint="CVV"
+        android:inputType="number"
+        android:maxLength="3" />
+
+    <LinearLayout
+        android:id="@+id/llSubmitCardDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_cc_paynow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Pay Now" />
+
+        <Button
+            android:id="@+id/btn_cc_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:text="Cancel" />
+    </LinearLayout>
+
+</LinearLayout>

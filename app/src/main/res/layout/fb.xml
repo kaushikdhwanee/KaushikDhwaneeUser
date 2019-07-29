@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:htext="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/ab2"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never">
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="80dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:padding="10dp"
+                    android:lines="6"
+                    android:hint="Description"
+                    android:gravity="top"
+                    android:background="@drawable/sp_edit_bg"/>
+
+                <ImageView android:id="@+id/spin2_lv"
+                    android:src="@drawable/spin_drop_bg"
+                    android:layout_width="match_parent"
+                    android:visibility="gone"
+                    android:layout_marginTop="80dp"
+android:scaleType="fitXY"
+                    android:layout_marginLeft="30dp"
+
+                    android:layout_marginRight="30dp"
+                    android:layout_height="150dp" />
+
+                <Button android:id="@+id/sclass_fb"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:background="@drawable/faq_bg"
+                    android:textColor="@color/app_theme1"
+                    android:layout_marginTop="60dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Select Class"
+                    android:padding="10dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:drawableEnd="@drawable/dwn_arw_bg"
+                    android:drawableRight="@drawable/dwn_arw_bg"
+
+                    android:textAllCaps="false"
+                    android:layout_marginRight="20dp"
+                    android:layout_height="wrap_content" />
+
+                <LinearLayout android:id="@+id/spin1_lay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"
+                    android:background="@drawable/spin_drop_bg"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="30dp">
+
+                    <ListView android:id="@+id/spin1_lv"
+                        android:layout_width="wrap_content"
+                        android:layout_margin="20dp"
+                        android:listSelector="@color/transparent"
+                        android:overScrollMode="never"
+                        android:divider="@color/transparent"
+                        android:dividerHeight="0dp"
+                        android:layout_height="match_parent" />
+
+
+
+                </LinearLayout>
+
+
+
+
+                <!--
+                            <ImageView android:id="@+id/spin1_lv"
+                                android:src="@drawable/spin_drop_bg"
+                                android:layout_width="match_parent"
+                                android:visibility="gone"
+                                android:layout_margin="20dp"
+                                android:layout_height="150dp" />
+                -->
+
+                <Button android:id="@+id/itype"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@drawable/faq_bg"
+                    android:textColor="@color/app_theme1"
+                    android:text="Issue Type"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textAllCaps="false"
+                    android:padding="10dp"
+                    android:drawableLeft="@drawable/bluedot"
+                    android:drawableEnd="@drawable/dwn_arw_bg"
+                  android:drawableRight="@drawable/dwn_arw_bg"
+                    android:layout_height="50dp" />
+
+                <!--
+                            <in.tiqs.kaushikdhwaneeuser.cviews.buttons.FancyButton
+                                android:id="@+id/itype"
+                                android:layout_width="match_parent"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginRight="20dp"
+
+
+                                android:layout_height="50dp"
+                                android:paddingBottom="10dp"
+                                htext:fb_fontIconResource="@string/icon_user"
+                                android:paddingTop="10dp"
+                                htext:fb_borderColor="@color/app_theme1"
+                                htext:fb_borderWidth="1dp"
+                                htext:fb_defaultColor="@color/white"
+                                htext:fb_focusColor="#ff838b"
+                                htext:fb_radius="1dp"
+                                htext:fb_textSize="20sp"
+                                htext:fb_fontIconSize="20sp"
+                                htext:fb_iconPosition="left"
+                                htext:fb_text="@string/login"
+                                htext:fb_textColor="@color/app_theme1" />
+                -->
+
+
+
+
+
+
+
+            </RelativeLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/submt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="20dp"
+
+            android:background="@drawable/frwrd"
+            android:layout_alignParentBottom="true"/>
+
+
+
+    </RelativeLayout>
+
+    <!--
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:src="@drawable/banner1"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp" />
+
+            </LinearLayout>
+
+
+        </FrameLayout>
+    -->
+
+
+
+</LinearLayout>

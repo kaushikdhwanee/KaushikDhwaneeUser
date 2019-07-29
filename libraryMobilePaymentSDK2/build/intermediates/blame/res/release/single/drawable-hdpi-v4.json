@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\atomlogo.png",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\atomlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\process.png",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\drawable-hdpi\\process.png"
+    }
+]

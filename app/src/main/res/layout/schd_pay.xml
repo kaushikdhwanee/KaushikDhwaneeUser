@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_above="@+id/submit"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/ab2"/>
+    <ListView
+        android:id="@+id/sc_pay_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/dark_grey"
+        android:dividerHeight="0.5dp"
+        android:background="@color/transparent"
+        android:listSelector="@color/transparent"
+        android:overScrollMode="never"
+        >
+
+    </ListView>
+</LinearLayout>
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/app_theme1"
+        android:text="Pay Now"
+        android:textSize="16sp"
+        android:textColor="@color/white"
+        android:layout_alignParentBottom="true"
+        />
+
+</RelativeLayout>

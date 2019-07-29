@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\layout_card_payment_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\layout_card_payment_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\cc_txn_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\cc_txn_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\nb_txn_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_txn_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\txn_options.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\txn_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\txn_options.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\txn_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\nb_txn_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_txn_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\processing.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\processing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\cc_txn_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\cc_txn_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\nb_webview_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_webview_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\layout_card_payment_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\layout_card_payment_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\processing.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\processing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\4f26426d0f1640972ce061095cc3df285d8965be\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\custom_spinner.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\nb_webview_screen.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\Desktop\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\src\\main\\res\\layout\\nb_webview_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mahduparna Maji\\Desktop\\testing\\KaushikDhwaneeUser\\libraryMobilePaymentSDK\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Mahduparna Maji\\.android\\build-cache\\2484dee616efb45f00c1f3c269c7f8ca4ade5d77\\output\\res\\layout\\notification_template_media.xml"
+    }
+]

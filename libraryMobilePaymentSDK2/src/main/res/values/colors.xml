@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <color name="myWindowBackground">#DFDFDF</color>
+
+
+    <color name="selected_gray">#373737</color>
+</resources>
+

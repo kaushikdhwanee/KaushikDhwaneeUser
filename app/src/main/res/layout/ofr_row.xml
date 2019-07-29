@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:orientation="vertical">
+
+    <ImageView android:id="@+id/ofr_img"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/banner1"/>
+
+    <TextView android:id="@+id/ofr_amt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Refer you friend to get Rs. 250"
+        android:textColor="@color/dark_grey"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="right"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/faq_bg"
+        android:text="Select"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/dark_grey"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/kondapur"
+        android:background="@drawable/btn_bg1"
+        android:text=""
+        android:gravity="center"
+        android:textColor="@color/dark_grey"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="20dp"
+    >
+
+</TextView>

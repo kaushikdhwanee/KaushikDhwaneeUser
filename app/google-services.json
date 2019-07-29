@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "955888082513",
+    "firebase_url": "https://kaushik-dhwanee.firebaseio.com",
+    "project_id": "kaushik-dhwanee",
+    "storage_bucket": "kaushik-dhwanee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955888082513:android:7b8fc4238eb9a858",
+        "android_client_info": {
+          "package_name": "in.tiqs.kaushikdhwaneeuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955888082513-acjsqo0615s4eh2e3n4dphmrsfivf1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2w2-Dmhb-hrFMJYqg1sk0J9xbJ3ncHqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955888082513:android:d87d81f74244dc83",
+        "android_client_info": {
+          "package_name": "com.khusaki.kaushikdhwaneeteachers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955888082513-acjsqo0615s4eh2e3n4dphmrsfivf1ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2w2-Dmhb-hrFMJYqg1sk0J9xbJ3ncHqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

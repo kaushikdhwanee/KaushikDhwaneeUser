@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:weightSum="2">
+<TextView
+    android:id="@+id/batch_name"
+    android:layout_width="0dp"
+    android:layout_weight=".4"
+    android:layout_height="wrap_content"
+    android:text="Batch"
+    />
+<TextView
+    android:id="@+id/teacher_name"
+    android:layout_width="0dp"
+    android:layout_weight=".8"
+    android:layout_height="wrap_content"
+    android:text="Batch"
+    />
+    <TextView
+        android:id="@+id/Time"
+        android:layout_width="0dp"
+        android:layout_weight="8"
+        android:layout_height="wrap_content"
+        android:text="Batch"
+        android:ellipsize="end"
+        android:maxLines="1"
+        />
+
+</LinearLayout>

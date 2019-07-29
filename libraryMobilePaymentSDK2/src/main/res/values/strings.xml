@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MobilePaymentSDK</string>
+	<string name="Rs">\u20B9</string>
+	<string name="sp_month_sel">Select Month</string>
+	<string name="sp_year_sel">Select Year</string>
+</resources>

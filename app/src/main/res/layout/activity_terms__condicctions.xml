@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="in.tiqs.kaushikdhwaneeuser.act.act.Terms_Condicctions">
+    <include layout="@layout/ab2" android:id="@+id/pf_ab"/>
+
+    <ScrollView
+        android:layout_below="@+id/pf_ab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:text="
+1. Kaushik Dhwanee will not store any of your Bank credentials / Card details, the system will redirect you to concerned Bank pages only to complete your transaction.\n\n
+
+2. There is No refund(s) / No Cancellations / No charge backs are allowed for the transactions done through this channel.\n\n
+
+3. In case of any dispute regarding the payments, you are requested to contact school administrator.\n\n
+
+4. Transaction fees charged would be borne by cardholder for any payment.\n\n
+
+5.Transaction fees charged would not be refunded/ reversed for any refund or reversal and chargeback of any transaction.
+
+"
+    android:textSize="14sp"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

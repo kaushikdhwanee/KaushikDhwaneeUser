@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:overScrollMode="never">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/enroll_sclass1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center"
+
+            android:drawablePadding="10dp"
+            android:layout_marginTop="10dp"
+
+            android:background="@drawable/bootom_line1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:text="Select Class" >
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/enroll_splan1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left|center"
+
+            android:drawablePadding="10dp"
+            android:layout_marginTop="10dp"
+
+            android:background="@drawable/bootom_line1"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:text="Select Plan" >
+
+        </TextView>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/enroll_date"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/enroll_date1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/call_draw"
+                android:drawableStart="@drawable/call_draw"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:hint="Date" >
+
+            </EditText>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/enroll_day"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/enroll_day1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/call_draw"
+                android:drawableStart="@drawable/call_draw"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:hint="Day" >
+
+            </EditText>
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/enroll_sbranch"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/enroll_sbranch1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/call_draw"
+                android:drawableStart="@drawable/call_draw"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:hint="Select Branch" >
+
+            </EditText>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/enroll_amt"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/enroll_amt1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/call_draw"
+                android:drawableStart="@drawable/call_draw"
+                android:drawablePadding="10dp"
+                android:inputType="text"
+                android:hint="Select Branch" >
+
+            </EditText>
+        </android.support.design.widget.TextInputLayout>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PAY NOW"
+
+            android:layout_marginTop="30dp"
+
+            android:layout_gravity="center"
+            android:textColor="@color/dark_grey"
+            android:background="@color/app_theme1"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@color/transparent"/>
+    </LinearLayout>
+
+</ScrollView>

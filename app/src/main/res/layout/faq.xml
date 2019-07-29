@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include android:id="@+id/f_ab" layout="@layout/ab2"/>
+
+    <ExpandableListView
+
+        android:id="@+id/f_list"
+
+        android:layout_height="match_parent"
+android:overScrollMode="never"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+
+
+android:dividerHeight="5dp"
+        android:listSelector="@color/transparent"
+        android:background="@android:color/transparent"
+        android:childDivider="@android:color/white"
+        android:divider="@android:color/white"
+        android:groupIndicator="@null" />
+
+
+</LinearLayout>
